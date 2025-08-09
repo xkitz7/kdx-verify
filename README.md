@@ -12,3 +12,5 @@
 | `Linux (ARM64) (DEBIAN)`    |          NOT Available |
 | `Linux (x86_64) (ARCH)`     |          NOT Available |
 | `Linux (ARM64) (ARCH)`      |          NOT Available | 
+
+[![version](1.0)
