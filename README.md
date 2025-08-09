@@ -4,7 +4,7 @@
 | :-------------------- | :--------------------- |
 | `Full release`        |          NOT Available |
 | `BETA`                |          NOT Available |
-| `Developer Preview`   |          NOT Available | 
+| `Developer Preview`   |          0.4.0.2       | 
 
 | Platform                    | Status                 |
 | :-------------------------- | :--------------------- |
