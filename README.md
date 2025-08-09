@@ -1,8 +1,9 @@
 # kdx-verify
 A kernel-level security layer module that blocks applications, commands, etc from using SUDO/ROOT/PKEXEC in Linux.
+
 # KDX-verify
 
-| Platform           | Status   |
+| Platform           | Status              |
 | :----------------- | :----- | :--------- |
 | `Linux (x86_64) (DEBIAN)`   | Available |
 | `Linux (ARM64) (DEBIAN)`    | NOT Available |
